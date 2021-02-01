@@ -1,9 +1,8 @@
 /node_modules
 /.data/*
-/.logs/*
+/.logs
 /.vs
 /index-debug.js
 /index-strict.js
 /lib/troubleMaker.js
 /settingEnvVariables.md
-/.logs
