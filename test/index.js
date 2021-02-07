@@ -6,10 +6,10 @@
 //  Override the NODE_ENV variable
 process.env.NODE_ENV = 'testing';
 
-// Applicatoin loginc for the test runner
+// Application logic for the test runner
 _app = {}
 
-// Containder for the test
+// Container for the test
 _app.tests = {};
 
 _app.tests.unit = require('./unit');
